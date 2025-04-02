@@ -1,9 +1,4 @@
-## Clone the repository
-```bash
-git clone https://github.com/Tikquuss/IFT6135_W25_A2_release
-cd IFT6135_W25_A2_release
-pip install -r requirements.txt
-```
+
 
 ## Train a model
 You can use (see [run_exp.py](run_exp.py) for more parameters)
